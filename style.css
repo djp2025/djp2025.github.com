@@ -1,19 +1,41 @@
 @media screen {
 	html {
-		background-color: #eee;
+		background: url(images/libraryescalator.JPG) no-repeat; /*78aabf*/
+		background-size:cover;
+		position: fixed;
+    	width: 100%;
+    	height: 100%;
+    	top: 0px;
+    	left: 0px;
+
 	}
 
 	body {
-		font-family: Helvetica, sans-serif;
-		font-size: 12px;
-		color: #444;
-		background-color: #fafafa;
-		padding: 40px;
+		background: #D7F2FD;
+		font-family: 'Raleway', sans-serif;		
+		font-size: 200%px;
+		width:50%;
+		color: #F5F5F5;
+    	top: 0px;
+    	left: 0px;
+    	border:2px solid;
+    	border-color:#807223;
+		border-radius:25px;
+    	
 	}
+	
+	#screen-dan 
+{ 
+	background: url(images/bg.jpg) no-repeat; 
+	width: 960px; 
+	height: 658px; 
+	margin: 50px auto 0 auto; 
+	padding: 0; 
+	color: #343434; 
 
 	h1 {
-		font-family: 'Garamond', sans-serif;
-		color: black;
+		font-family: 'Raleway', sans-serif;
+		color: #F5F5F5;
 		text-transform: uppercase;
 	}
 
