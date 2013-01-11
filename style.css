@@ -11,30 +11,29 @@
 	}
 
 	body {
-		background: #D7F2FD;
+		background: #706B5F;
+		float:left; 
 		font-family: 'Raleway', sans-serif;		
 		font-size: 200%px;
 		width:50%;
 		color: #F5F5F5;
     	top: 0px;
     	left: 0px;
-    	border:2px solid;
+    	border:3px solid;
     	border-color:#807223;
 		border-radius:25px;
+		
+	
     	
 	}
-	
-	#screen-dan 
-{ 
-	background: url(images/bg.jpg) no-repeat; 
-	width: 960px; 
-	height: 658px; 
-	margin: 50px auto 0 auto; 
-	padding: 0; 
-	color: #343434; 
+
+	p {
+		padding-left: 30px;
+	}
 
 	h1 {
 		font-family: 'Raleway', sans-serif;
+		font-size:200%;
 		color: #F5F5F5;
 		text-transform: uppercase;
 	}
