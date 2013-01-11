@@ -13,10 +13,11 @@
 	body {
 		background: #706B5F;
 		float:left;
-		font-family: 'Raleway', sans-serif;		
+		font-family: 'Raleway', sans-serif;	
+			
 		font-size: 200%px;
 		width:50%;
-		color: #DFF6FC;
+		color:#DFF6FC;
     	top: 0px;
     	left: 0px;
     	border:3px solid;
@@ -32,11 +33,10 @@
 	}
 
 	h1 {
-		
 		font-family: 'Raleway', sans-serif;
 		font-size:250%;
-		color: #DFF6FC;
 		text-transform: uppercase;
+		padding-left:15px;
 	}
 
 	ul {
