@@ -28,6 +28,7 @@ head {
 
 td {
 	padding-right:50px;
+	
 
 }
 
@@ -89,7 +90,7 @@ ul {
 	*/
 
 	a:link {
-		color: #38c;
+		color:white;
 		text-decoration:none;
 	}
 	a:visited {
